@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `cargo test`
+*.exe
+
+# Intermediate files
+*.lo
+*.o
+*.obj
+
+# Cargo output
+/target/
+
+# Rust/Cargo package manager files
+Cargo.lock
+
+# General
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# VS Code
+.vscode/
+
